@@ -10,8 +10,8 @@ $s3 = S3Client::factory(array(
     'version' => 'latest',
     'region'  => 'ap-south-1', //add correct region
     'credentials' => array(
-      'key' => 'AKIAW7IZDPIVHPLYAXZ3',
-      'secret'  => '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'
+      'key' => 'AKIAW7IZDPIVHPLYAX',
+      'secret'  => 'rYBmTKQgHKTmxcpLs6YH1OVKsQZf+q9l0SApppVcm'
     )
   ));
 
